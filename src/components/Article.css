@@ -1,7 +1,6 @@
 .article {
     width: 21rem;
     margin-bottom: 30px;
-    
     height: 12rem;
     display: flex;
     flex-direction: column;
@@ -10,7 +9,6 @@
 
 .article_head > h1 {
     font-size: 1.3rem;
-    
 }
 
 .article_head > p {
