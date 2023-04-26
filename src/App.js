@@ -1,13 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import MainContainer from './components/MainContainer';
-
+import { MainContainer } from './components';
 
 function App() {
   return (
     <div className="App">
-     <MainContainer/>
-     </div>
+      <MainContainer />
+    </div>
   );
 }
 

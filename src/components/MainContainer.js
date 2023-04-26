@@ -1,9 +1,8 @@
 import React from 'react'
-import './MainContainer.css'
-import RightContent from './RightContent'
-import Article from './Article'
 import { newData } from '../services/data'
 import LeftContent from './LeftContent'
+import './MainContainer.css'
+import RightContent from './RightContent'
 
 // const newData = JSON.parse(data)
 function MainContainer() {
